@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: TMDB-CLI-Tool
+  shell:
+    interactive:
+      enabled: true
+
+
+
+integration:
+  baseUrl: "https://api.themoviedb.org/3"
+  apikey: "${API_KEY}"
