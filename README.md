@@ -54,7 +54,7 @@ tmdb-app --type upcoming
 ## Example Output
 
 ```sh
-$ tmdb --type popular
+$ tmdb-app --type popular
 .___________..___  ___.  _______  .______        ______  __       __  
 |           ||   \/   | |       \ |   _  \      /      ||  |     |  | 
 `---|  |----`|  \  /  | |  .--.  ||  |_)  |    |  ,----'|  |     |  | 
